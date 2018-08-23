@@ -9,3 +9,13 @@ body {
   margin: 0;
   
 }
+
+#player {
+  
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  background-color: #2AD931;
+  margin: 0;
+  
+}
